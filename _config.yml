@@ -1,0 +1,28 @@
+name: paperplanes
+favicon: null
+layout_spectrum: 0.8476543670985848
+typography_spectrum: 0.9574617275502533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.875437447335571
+  lightness: 0.9490309457760304
+  saturation: 0.6935917842201889
+  rhythmicContrast: 0.20282803825102746
+purpose: []
