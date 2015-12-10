@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Paper Planes experiments with the Grid]]></title>
-        <description><![CDATA[Paper Planes experiments with the Grid]]></description>
+        <title><![CDATA[Paper Planes - A strategic, content first agency]]></title>
+        <description><![CDATA[Paper Planes - A strategic, content first agency]]></description>
         <link>https://thegrid.ai/paperplanes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 16:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 17:07:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paperplanes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is Paper Planes]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/paperplanes/this-is-paper-planes/index.html</link>
             <guid isPermaLink="false">23a42c98-3092-44df-8952-9d2d27a63da2</guid>
             <pubDate>Thu, 10 Dec 2015 16:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.paperplanes.fi/wp-content/uploads/2015/10/herot_1-1200x668.jpg">]]></description>
+            <link>https://thegrid.ai/paperplanes/5125faf2-27f8-4190-89ee-c351180e316c/index.html</link>
+            <guid isPermaLink="false">5125faf2-27f8-4190-89ee-c351180e316c</guid>
+            <pubDate>Thu, 10 Dec 2015 17:07:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
